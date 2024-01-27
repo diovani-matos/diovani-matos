@@ -5,6 +5,7 @@ Sou estudante de desenvolvimento front end, apaixonado por tecnologia e sempre e
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diovani-matos-333a2a228/)
 [![Gmail](	https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matosdiovani@gmail.com)
 [![Instagram](	https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/diovanimatos/)
+[![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send/?phone=5551994477827&text&type=phone_number&app_absent=0)
 
 ![Diovani GitHub stats](https://github-readme-stats.vercel.app/api?username=diovani-matos&show_icons=true&theme=tokyonight)
 
